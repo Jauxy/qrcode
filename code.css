@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+   justify-content: center;
+}
+.box {
+    align-items: center;
+    box-shadow: 2px 2px #b5c2d1;
+    color: aqua;
+    width: 200px;
+    background-color: #d5e1ef;
+    font-style: normal;
+    padding: 9px;
+    border-radius: 15px;
+   text-align: center;
+   
+}
+
+.pix img {
+    border-radius: 15px;
+}
+.big {
+    color: #25354c;
+    font-size: 17px;
+    font-family: outfit;
+    text-align: center;
+}
+
+.small {
+    color: #74757a;
+    font-size: 12px;
+    font-family: outfit;
+    text-align: center;
+}
+ 
+
